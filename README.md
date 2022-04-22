@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm one passionate software & hardware engineer from Moscow, working usually with Rust & Swift.
+#### I'm one passionate software & hardware hobbyist from Moscow, working usually with Rust & Swift.
 
 - 🎓 HSE CS / Design School => [anasibullin@ithse.ru](mailto:anasibullin@ithse.ru)
 - 🔭 Familiar with:
