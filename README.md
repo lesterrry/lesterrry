@@ -8,6 +8,7 @@
   * [Python](https://github.com/Lesterrry?tab=repositories&q=&type=&language=python) (+ [JPN](https://github.com/Lesterrry?tab=repositories&q=&type=&language=jupyter+notebook))
   * [C++](https://github.com/Lesterrry?tab=repositories&q=&type=&language=c%2B%2B) (+ .ino)
   * [C#](https://github.com/Lesterrry?tab=repositories&q=&type=&language=c%23) (+ Visual Studio, Forms, Mono Framework)
+  * [F#](https://github.com/Lesterrry?tab=repositories&q=&type=&language=f%23) (+ Visual Studio, Forms, Mono Framework)
   * [PHP](https://github.com/Lesterrry?tab=repositories&q=&type=&language=php)
   * [Bash](https://github.com/Lesterrry?tab=repositories&q=&type=&language=shell)
   * [AppleScript](https://github.com/Lesterrry?tab=repositories&q=&type=&language=applescript)
