@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm one passionate software & hardware hobbyist from Moscow, working usually with Rust & Swift whilst pursuing a career in UI/UX design.
 
-- 🎓 HSE CS / Design School => [anasibullin@ithse.ru](mailto:anasibullin@ithse.ru)
+- 🎓 HSE CS / Design School => [aanasibullin@edu.hse.ru](mailto:aanasibullin@edu.hse.ru)
 - 🔭 Familiar with:
   * [Rust](https://github.com/Lesterrry?tab=repositories&q=&type=&language=rust)
   * [Swift](https://github.com/Lesterrry?tab=repositories&q=&type=&language=swift) (+ Xcode, Storyboards, Cocoa)
