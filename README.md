@@ -18,4 +18,3 @@
   * [Ruby](https://github.com/Lesterrry?tab=repositories&q=&type=&language=ruby) (+ Bundler, rbenv, gems)
 
 [![Telegram](https://img.shields.io/badge/Telegram-contact%20me-9cf?style=social&logo=telegram)](https://t.me/lesterrry)
-[![Kofi](https://img.shields.io/badge/Ko–fi-support%20me-9cf?style=social&logo=ko-fi)](http://ko-fi.com/lesterrry)
