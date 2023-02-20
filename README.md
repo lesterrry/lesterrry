@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm one passionate software & hardware hobbyist from Moscow, working usually with Rust & Swift whilst pursuing a career in UI/UX design.
+#### I'm one passionate software & hardware hobbyist, working usually with Python, PHP & Rust whilst pursuing a career in UI/UX design.
 
 - 🎓 HSE CS / Design School => [aanasibullin@edu.hse.ru](mailto:aanasibullin@edu.hse.ru)
 - ✏️ My works => https://behance.net/aydar
@@ -16,5 +16,3 @@
   * [JS](https://github.com/Lesterrry?tab=repositories&q=&type=&language=javascript)
   * [Kotlin](https://github.com/Lesterrry?tab=repositories&q=&type=&language=kotlin) (+ Android Studio)
   * [Ruby](https://github.com/Lesterrry?tab=repositories&q=&type=&language=ruby) (+ Bundler, rbenv, gems)
-
-[![Telegram](https://img.shields.io/badge/Telegram-contact%20me-9cf?style=social&logo=telegram)](https://t.me/lesterrry)
