@@ -3,7 +3,10 @@
 I enjoy working with APIs, creating [bots](https://github.com/search?q=user%3Alesterrry+%23telegram) and [crawlers](https://github.com/search?q=user%3Alesterrry+%23crawler).**
 
 - 🎓 HSE CS / Design School => [aanasibullin@edu.hse.ru](mailto:aanasibullin@edu.hse.ru)
-- ✏️ My works => https://behance.net/aydar
+- ✏️ My works => 
+  * https://behance.net/aydar
+  * https://dribbble.com/aydarmedia
+  * https://figma.com/@aydarmedia
 - 🔭 What I know =>
   * [Rust](https://github.com/Lesterrry?tab=repositories&q=&type=&language=rust)
   * [Swift](https://github.com/Lesterrry?tab=repositories&q=&type=&language=swift) (+ Xcode, Storyboards, Cocoa)
