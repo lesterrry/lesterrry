@@ -19,4 +19,4 @@ I enjoy working with APIs, creating [bots](https://github.com/search?q=user%3Ale
   * [AppleScript](https://github.com/Lesterrry?tab=repositories&q=&type=&language=applescript)
   * [JS](https://github.com/Lesterrry?tab=repositories&q=&type=&language=javascript) (+ Webpack, Bundler, Three.JS)
   * [Kotlin](https://github.com/Lesterrry?tab=repositories&q=&type=&language=kotlin) (+ Android Studio)
-  * [Ruby](https://github.com/Lesterrry?tab=repositories&q=&type=&language=ruby) (+ Bundler, Rbenv, Gems)
+  * [Ruby](https://github.com/Lesterrry?tab=repositories&q=&type=&language=ruby) (+ Bundler, Rbenv, Gems, Rails)
