@@ -1,5 +1,5 @@
 ### Hi there 👋
-**I'm one passionate software & hardware hobbyist, working usually with Python, PHP & Ruby whilst pursuing a career in UI/UX design.\
+**I'm one passionate creative developer, working usually with Python, PHP & Ruby whilst pursuing a career in Frontend.\
 I enjoy working with APIs, creating [bots](https://github.com/search?q=user%3Alesterrry+%23telegram) and [crawlers](https://github.com/search?q=user%3Alesterrry+%23crawler).**
 
 - 🎓 HSE CS / Design School => [aanasibullin@edu.hse.ru](mailto:aanasibullin@edu.hse.ru)
