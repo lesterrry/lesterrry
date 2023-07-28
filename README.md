@@ -4,6 +4,7 @@ I enjoy working with APIs, creating [bots](https://github.com/search?q=user%3Ale
 
 - 🎓 HSE CS / Design School => [aanasibullin@edu.hse.ru](mailto:aanasibullin@edu.hse.ru)
 - 💼 HSE Digital Block (Frontend Dev)
+- 💼 Yandex (Frontend Dev)
 - ✏️ Design projects => 
   * https://behance.net/aydar
   * https://figma.com/@aydarmedia
