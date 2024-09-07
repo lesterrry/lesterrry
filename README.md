@@ -4,7 +4,7 @@ I enjoy working with APIs, creating [bots](https://github.com/search?q=user%3Ale
 
 - 🎓 HSE CS / Design School => [aanasibullin@edu.hse.ru](mailto:aanasibullin@edu.hse.ru)
 - 💼 HSE Digital Block (Fullstack Dev)
-- 💼 Yandex (Infrastructure Dev)
+- 💼 Yandex (Infrastructure & Web Dev)
 - ✏️ Design projects => 
   * https://behance.net/aydar
   * https://figma.com/@aydarmedia
@@ -12,7 +12,7 @@ I enjoy working with APIs, creating [bots](https://github.com/search?q=user%3Ale
   * [Ruby](https://github.com/Lesterrry?tab=repositories&q=&type=&language=ruby) (+ Bundler, Rbenv, Gems, Rails)
   * [Python](https://github.com/Lesterrry?tab=repositories&q=&type=&language=python) (+ [JPN](https://github.com/Lesterrry?tab=repositories&q=&type=&language=jupyter+notebook))
   * [PHP](https://github.com/Lesterrry?tab=repositories&q=&type=&language=php)
-  * [JS](https://github.com/Lesterrry?tab=repositories&q=&type=&language=javascript) (+ Webpack, Bundler, Three.JS)
+  * [JS](https://github.com/Lesterrry?tab=repositories&q=&type=&language=javascript) (+ TS, React, Redux, Storybook, Webpack, Three.JS)
   * [Rust](https://github.com/Lesterrry?tab=repositories&q=&type=&language=rust)
   * [C++](https://github.com/Lesterrry?tab=repositories&q=&type=&language=c%2B%2B) (+ .ino)
   * [C#](https://github.com/Lesterrry?tab=repositories&q=&type=&language=c%23) (+ Visual Studio, Forms, Mono Framework, Xamarin, .NET Core)
