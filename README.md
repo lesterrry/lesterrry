@@ -6,7 +6,7 @@
 | 🎓 | HSE CS / Design School => [aanasibullin@edu.hse.ru](mailto:aanasibullin@edu.hse.ru) |
 | 💼 | HSE Digital Block (ex Fullstack Developer) |
 | 💼 | Yandex Search (ex Infrastructure Developer) |
-| 💼 | Yandex 360 (Infrastructure & Web Developer, Scrum-master) |
+| 💼 | Yandex 360 (Infrastructure & Web Developer) |
 
 ------
 
