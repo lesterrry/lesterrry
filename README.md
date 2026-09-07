@@ -1,5 +1,5 @@
 ### hi there
-**i'm aydar aka lesterrry aka volchok, a creative developer working usually with JS/TS & Ruby whilst building a career in fullstack development**
+**i'm aydar aka lesterrry aka volchok, a backend/infra developer**
 
 |    |    |
 | -- | -- |
@@ -20,4 +20,4 @@
   * [C#](https://github.com/Lesterrry?tab=repositories&q=&type=&language=c%23) (+ Visual Studio, Forms, Mono Framework, Xamarin, .NET Core)
   * [Swift](https://github.com/Lesterrry?tab=repositories&q=&type=&language=swift) (+ Xcode, Storyboards, Cocoa)
   * [Kotlin](https://github.com/Lesterrry?tab=repositories&q=&type=&language=kotlin) (+ Android Studio)
-  * Monitoring, CI/CD, Docker, Awacs, Managed DNS, Unix
+  * Monitoring, CI/CD, Docker, Awacs, Managed DNS, Unix, YDB, PG, etc.
