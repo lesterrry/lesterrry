@@ -4,9 +4,11 @@
 |    |    |
 | -- | -- |
 | 🎓 | HSE CS / Design School => [aanasibullin@edu.hse.ru](mailto:aanasibullin@edu.hse.ru) |
+| 🎓 | ITMO MHS |
 | 💼 | HSE Digital Block (ex Fullstack Developer) |
 | 💼 | Yandex Search (ex Infrastructure Developer) |
-| 💼 | Yandex 360 (Infrastructure & Web Developer) |
+| 💼 | Yandex 360 (ex Infrastructure & Web Developer) |
+| 💼 | Yango (Infrastructure & Backend Developer) |
 
 ------
 
